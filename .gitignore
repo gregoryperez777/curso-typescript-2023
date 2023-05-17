@@ -1,0 +1,5 @@
+bases/node_modules
+bases/node_modules2
+
+express-api/node_modules
+ts-node/node_modules
